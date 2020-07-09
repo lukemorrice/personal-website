@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.32f33630.chunk.css",
-    "main.js": "/personal-website/static/js/main.3947bb32.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.3947bb32.chunk.js.map",
-    "runtime-main.js": "/personal-website/static/js/runtime-main.3731dab7.js",
-    "runtime-main.js.map": "/personal-website/static/js/runtime-main.3731dab7.js.map",
-    "static/js/2.04fde2c9.chunk.js": "/personal-website/static/js/2.04fde2c9.chunk.js",
-    "static/js/2.04fde2c9.chunk.js.map": "/personal-website/static/js/2.04fde2c9.chunk.js.map",
-    "index.html": "/personal-website/index.html",
-    "precache-manifest.107f9c31dd5607c9d956bf2b317352ab.js": "/personal-website/precache-manifest.107f9c31dd5607c9d956bf2b317352ab.js",
-    "service-worker.js": "/personal-website/service-worker.js",
-    "static/css/main.32f33630.chunk.css.map": "/personal-website/static/css/main.32f33630.chunk.css.map",
-    "static/js/2.04fde2c9.chunk.js.LICENSE.txt": "/personal-website/static/js/2.04fde2c9.chunk.js.LICENSE.txt",
-    "static/media/portrait.jpeg": "/personal-website/static/media/portrait.71a6293c.jpeg"
+    "main.css": "./static/css/main.32f33630.chunk.css",
+    "main.js": "./static/js/main.b9b4fa86.chunk.js",
+    "main.js.map": "./static/js/main.b9b4fa86.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.be9ee3f7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.be9ee3f7.js.map",
+    "static/js/2.04fde2c9.chunk.js": "./static/js/2.04fde2c9.chunk.js",
+    "static/js/2.04fde2c9.chunk.js.map": "./static/js/2.04fde2c9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b95d752dda8d5c603e0b3b2a54933447.js": "./precache-manifest.b95d752dda8d5c603e0b3b2a54933447.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.32f33630.chunk.css.map": "./static/css/main.32f33630.chunk.css.map",
+    "static/js/2.04fde2c9.chunk.js.LICENSE.txt": "./static/js/2.04fde2c9.chunk.js.LICENSE.txt",
+    "static/media/portrait.jpeg": "./static/media/portrait.71a6293c.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3731dab7.js",
+    "static/js/runtime-main.be9ee3f7.js",
     "static/js/2.04fde2c9.chunk.js",
     "static/css/main.32f33630.chunk.css",
-    "static/js/main.3947bb32.chunk.js"
+    "static/js/main.b9b4fa86.chunk.js"
   ]
 }
