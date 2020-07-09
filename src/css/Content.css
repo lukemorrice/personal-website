@@ -8,16 +8,58 @@ div.content {
 	right: 0;
 }
 
+.bars {
+	visibility: hidden;
+	width: 40px;
+	height: auto;
+	top: 15px;
+	left: 30px;
+	position: fixed;
+	cursor: pointer;
+}
+
+#cross {
+	visibility: hidden;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
 @media screen and (max-width: 768px) {
 	div.content {
 		width: 100%;
 	}
+	.bars {
+		visibility: visible;
+	}
+}
+
+@media screen and (min-width: 769px) {
+	.bars {
+		display: none !important;
+	}
+	div#main {
+		margin-left: 0px !important;
+	}
+}
+
+div.nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 315px;
+	visibility: hidden;
+	height: 100%;
+	background-color: #6cabdd;
+	color: white;
 }
 
 section.section {
 	padding: 20px;
 	margin-left: 10px;
-	padding-top: 40px;
+	padding-top: 25px;
 }
 
 h2.subHeader {

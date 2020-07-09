@@ -52,14 +52,3 @@ export default class SideBar extends Component {
 		);
 	}
 }
-
-{
-	/* <div class="socialIcons">
-						<a href="https://www.linkedin.com/in/lukemorrice/" target="_blank">
-							<IoLogoLinkedin class="socialIcon" id="linkedin" />
-						</a>
-						<a href="https://github.com/lukemorrice" target="_blank">
-							<IoLogoGithub color="#333" class="socialIcon" id="github" />
-						</a>
-					</div> */
-}

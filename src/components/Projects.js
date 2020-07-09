@@ -18,10 +18,10 @@ export default class Projects extends Component {
 						<p class="description">
 							<br />
 							Developed a mobile app for iOS and Android using{" "}
-							<span style={{ fontWeight: "700" }}>React Native</span>,
-							<span style={{ fontWeight: "700" }}> Redux </span>
+							<span style={{ fontWeight: "600" }}>React Native</span>,
+							<span style={{ fontWeight: "600" }}> Redux </span>
 							and
-							<span style={{ fontWeight: "700" }}> Firebase</span>
+							<span style={{ fontWeight: "600" }}> Firebase</span>
 							. <br /> <br />
 							Optify helps you to become the best version of yourself by sending
 							you daily challenges to complete related to exercise, wellbeing,
@@ -44,9 +44,9 @@ export default class Projects extends Component {
 						<p class="description">
 							Using my skills in web development, I created my personal website
 							using{" "}
-							<span style={{ fontWeight: "700" }}>React (JavaScript)</span> in
-							combination with <span style={{ fontWeight: "700" }}>HTML</span>{" "}
-							and <span style={{ fontWeight: "700" }}>CSS</span>.
+							<span style={{ fontWeight: "600" }}>React (JavaScript)</span> in
+							combination with <span style={{ fontWeight: "600" }}>HTML</span>{" "}
+							and <span style={{ fontWeight: "600" }}>CSS</span>.
 						</p>
 					</li>
 				</ul>
