@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+
+div.projectItem {
+	display: flex;
+	flex-direction: row;
+	margin-left: 5px;
+}
+
+ul li {
+	list-style: circle;
+}
+
+ul.projectsList {
+	padding-inline-start: 20px;
+}
+
+h1.projectHeader {
+	font-size: 25px;
+	font-family: "Quicksand", Arial, Helvetica, sans-serif;
+	font-weight: 700;
+}
+
+div.optifyO {
+	width: 70px;
+	height: 70px;
+	border-radius: 35px;
+	background-color: #48c9b0;
+}
+
+p.optifyText {
+	font-size: 45px;
+	letter-spacing: 10px;
+	color: #48c9b0;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+p.description {
+	font-size: 20px;
+	font-family: "Quicksand", Arial, Helvetica, sans-serif;
+}

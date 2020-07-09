@@ -1,0 +1,10 @@
+h3.descriptionHeader {
+	font-size: 23px;
+	font-family: "Proza Libre", Arial, Helvetica, sans-serif;
+	font-weight: 400;
+}
+
+p.description {
+	font-size: 20px;
+	font-family: "Quicksand", Arial, Helvetica, sans-serif;
+}

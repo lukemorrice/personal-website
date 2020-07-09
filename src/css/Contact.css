@@ -1,0 +1,43 @@
+div.contactInfo {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding-bottom: 25px;
+}
+
+.contactIcon {
+	width: 25px;
+	height: auto;
+	margin-right: 20px;
+}
+
+p.contactText {
+	font-size: 22px;
+	font-family: "Quicksand", Arial, Helvetica, sans-serif;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+a.link {
+	text-decoration: none;
+	position: relative;
+	color: black;
+}
+
+a.link:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	bottom: 0;
+	left: 0;
+	background-color: black;
+	visibility: hidden;
+	transform: scaleX(0);
+	transition: all 0.3s ease-in-out;
+}
+
+a.link:hover:before {
+	visibility: visible;
+	transform: scaleX(1);
+}

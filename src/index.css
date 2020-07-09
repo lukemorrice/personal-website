@@ -1,9 +1,8 @@
 body {
 	background-color: #fff;
-	padding-top: 20px;
 	margin: 0;
 }
-li {
+/* li {
 	font-family: sans-serif;
 }
 ul.header li {
@@ -46,7 +45,7 @@ div {
 #nameheader {
 	font-family: "Helvetica Neue";
 	font-size: 64px;
-	margin-left: 10px;
+	margin-left: 15px;
 }
 .iconHeader {
 	display: flex;
@@ -59,15 +58,13 @@ div {
 	padding: 20px;
 	margin-bottom: 40px;
 	box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.5);
+	height: auto;
 }
 .square h3 {
 	font-size: 28px;
 }
 .square p {
 	font-size: 18px;
-}
-#about {
-	height: 250px;
 }
 #about p {
 	font-size: 21px;
@@ -86,7 +83,20 @@ div {
 	width: 100%;
 	margin-right: 20px;
 }
+.optify {
+	background-color: #48c9b0;
+	border-radius: 25px;
+	height: 50px;
+	width: 50px;
+}
 #contact {
 	width: 40%;
 	margin-left: 20px;
 }
+#football {
+	max-width: 80%;
+	height: auto;
+	margin: auto;
+	border-radius: 40px;
+	box-shadow: 0 0 15px -5px rgba(0, 0, 0, 0.5);
+} */

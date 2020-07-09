@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap");
+
+div.content {
+	width: calc(100% - 315px);
+	height: 100%;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+@media screen and (max-width: 768px) {
+	div.content {
+		width: 100%;
+	}
+}
+
+section.section {
+	padding: 20px;
+	margin-left: 10px;
+	padding-top: 40px;
+}
+
+h2.subHeader {
+	font-size: 30px;
+	font-family: "Proza Libre", Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	text-decoration: underline;
+}
