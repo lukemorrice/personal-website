@@ -35,7 +35,18 @@ export default class About extends Component {
 						called 'Intro to TensorFlow for Deep Learning'. It was a great
 						experience and invaluable as I expanded my understanding of concepts
 						within Deep Learning and learned how to work with TensorFlow. I
-						intend to complete many more.
+						subsequetly used this new knowledge to create a Convolutional Neural
+						Network to classify between healthy patients and patients with
+						pneumonia from chest x-ray images. You can find this project on my
+						Github,{" "}
+						<a
+							class="link"
+							target="_blank"
+							href="https://github.com/lukemorrice/ChestXRays"
+						>
+							here
+						</a>
+						.
 						<br /> <br />
 						Additionally, I have used the new free time to develop fresh,
 						benefical habits and work at breaking some bad ones. Despite being
