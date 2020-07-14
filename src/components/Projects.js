@@ -40,6 +40,31 @@ export default class Projects extends Component {
 					</li>
 					<br />
 					<li>
+						<h1 class="projectHeader">
+							Pneumonia Classification from Chest X-Ray Images
+						</h1>
+						<p class="description" style={{ color: "blue", fontSize: 21 }}>
+							<a
+								style={{ color: "blue" }}
+								href="https://github.com/lukemorrice/ChestXRays"
+								target="_blank"
+							>
+								Github Repository Link
+							</a>
+						</p>
+						<p class="description">
+							Using chest x-ray images sourced from Kaggle, I created a
+							Convolutional Neural Network to classify between healthy patients
+							and patients with pneumonia. I created two models: a standard CNN
+							with 2 convolution blocks, each with a max-pooling layer, and a
+							second Transfer Learning model (using ResNet V2 50). The second
+							model perfomed poorly, however the first model achieved an
+							accuracy on a test set of
+							<span style={{ fontWeight: "600" }}> ~89%</span>.
+						</p>
+					</li>
+					<br />
+					<li>
 						<h1 class="projectHeader">www.lukemorrice.com</h1>
 						<p class="description">
 							Using my skills in web development, I created my personal website

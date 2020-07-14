@@ -37,16 +37,7 @@ export default class About extends Component {
 						within Deep Learning and learned how to work with TensorFlow. I
 						subsequetly used this new knowledge to create a Convolutional Neural
 						Network to classify between healthy patients and patients with
-						pneumonia from chest x-ray images. You can find this project on my
-						Github,{" "}
-						<a
-							class="link"
-							target="_blank"
-							href="https://github.com/lukemorrice/ChestXRays"
-						>
-							here
-						</a>
-						.
+						pneumonia from chest x-ray images.
 						<br /> <br />
 						Additionally, I have used the new free time to develop fresh,
 						benefical habits and work at breaking some bad ones. Despite being
